@@ -1,1 +1,15 @@
-
+{
+  "Usuarios_Alumnos": [
+    { "id": 1, "user": "14220003", "password": "14220003" },
+    { "id": 2, "user": "14220004", "password": "14220004" },
+    { "id": 3, "user": "14220005", "password": "14220005" }
+  ],
+  "Tareas": [
+    { "id": 1, "tarea": "tarea 1", "Id": "14220003" },
+    { "id": 2, "tarea": "tarea 2", "Id": "14220003" },
+    { "id": 3, "body": "tarea 3", "Id": "14220004" },
+    { "id": 4, "body": "tarea 4", "Id": "14220005" },
+    { "id": 5, "body": "tarea 5", "Id": "14220003: },
+    { "id": 6, "body": "tarea 6", "Id": "14220004" }
+  ],
+}
